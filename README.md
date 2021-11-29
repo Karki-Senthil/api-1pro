@@ -8,3 +8,5 @@ npm init
 npm i express nodemon
 
 npm nodemon index
+
+go to localhost:555
